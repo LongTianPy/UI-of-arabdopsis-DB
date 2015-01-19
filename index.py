@@ -1,4 +1,8 @@
 #! /usr/bin/python
+"""
+	This index page includes 2 kinds of searches: gene names (IDs and symbols) search and gene functions. 
+	Each directs to genesearch.py and expsearch.py, respectively.
+"""
 import cgi
 
 if __name__=='__main__':
